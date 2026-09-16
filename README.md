@@ -14,10 +14,24 @@ This repository contains the complete technical execution and documentation acro
 * **Project 4: Executive Power BI Dashboard & Data Visualization**
   * Built an interactive Power BI dashboard (`DECODELABS ECOMMERCE DATA VISUAL ANALYSIS`) featuring KPI cards, product revenue rankings, annual trends, and payment method donut charts.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 * **Spreadsheet Processing:** Microsoft Excel
 * **Database Management:** SQL Server Management Studio (SSMS) | T-SQL
 * **Business Intelligence:** Microsoft Power BI
 * **Documentation:** Markdown / Word
 
 ## Repository Structure
+├── Data/
+│   └── Clean_Ecommerce_Dataset.csv
+├── Project-1-Excel/
+│   └── Project_1_Excel_Sanitization_Report.docx
+├── Project-2-SQL-Ingestion/
+│   ├── Project_2_SQL_Schema_Report.docx
+│   └── 01_schema_and_ingestion.sql
+├── Project-3-TSQL-Analytics/
+│   ├── Project_3_TSQL_Analytical_Report.docx
+│   └── 02_analytical_queries.sql
+└── Project-4-PowerBI-Dashboard/
+    ├── Project_4_PowerBI_Visual_Report.docx
+    ├── Ecommerce_Visual_Analysis.pbix
+    └── dashboard_screenshot.png
